@@ -1,0 +1,2 @@
+﻿CREATE ROLE [public2]
+GO
