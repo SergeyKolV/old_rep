@@ -1,0 +1,8 @@
+﻿SET QUOTED_IDENTIFIER, ANSI_NULLS ON
+GO
+
+CREATE VIEW [dbo].[view1]
+AS
+SELECT supplyID, supplier
+FROM dbo.SUPPLY1;
+GO
